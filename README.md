@@ -2,4 +2,3 @@
 
 Landing Page desenvolvida em Wordpress + Elementor, para um desafio proposto pela empresa Multti.
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)

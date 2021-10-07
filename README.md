@@ -5,4 +5,4 @@ Landing Page desenvolvida em Wordpress + Elementor, para um desafio proposto pel
 Demo:
 
 
-![Alt Text](https://media.giphy.com/media/Ih3WLlHHCeNdr80AOh/giphy.gif)
+![Alt Text](https://media.giphy.com/media/uJtPkZ4x12Mhwz6G4W/giphy.gif)
